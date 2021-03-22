@@ -1,0 +1,23 @@
+{
+  "orderItems": [
+    {
+      "countInStock": "11",
+      "image": "/images/playstation.jpg",
+      "name": "Sony Playstation 4 Pro White Version",
+      "price": "399.99",
+      "product": "604510b7b6cb95228bbeb56b",
+      "qty": "1"
+    }
+  ],
+  "itemsPrice": "669.96",
+  "paymentMethod": "PayPal",
+  "shippingAddress": {
+    "address": "B303",
+    "city": "CHENNAI",
+    "postalCode": "600100",
+    "country": "INDIA"
+  },
+  "shippingPrice": "0",
+  "taxPrice": "100.49",
+  "totalPrice": "770.45"
+}
